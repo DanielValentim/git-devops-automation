@@ -10,3 +10,8 @@ Criar branch
 Fazer merge
 Criar Pull Request
 
+
+## Adicionando Conteudo remotamente 
+
+
+## COmo trabalhar com GIT 
